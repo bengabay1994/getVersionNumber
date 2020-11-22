@@ -1,0 +1,1 @@
+echo %date:~6,1%.%date:~7,3%%date:~3,2%.%date:~0,2%%time:~0,2%%time:~3,2%
